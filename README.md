@@ -6,7 +6,7 @@ This exercise provides user stories in [the Gherkin syntax](https://docs.behat.o
 
 #### Project Overview
 
-The existing codebase for the Whole Number Divider meets certain user stories but falls short on others. Your task is to modify and extend the code to address all specified user stories, ensuring a robust, user-friendly application.
+The existing codebase for the Whole Number Divider meets certain user stories but falls short on others. My task was to modify and extend the code to address all specified user stories, ensuring a robust, user-friendly application.
 
 ![alt text](image.png)
 
@@ -76,10 +76,11 @@ The provided HTML and JavaScript setup a basic form for inputting two numbers (d
 3. **Error Handling**: Ensure the application handles errors gracefully, providing clear feedback to the user without crashing.
 4. **Testing**: Test your application thoroughly with various inputs to ensure it meets all the user stories.
 
-#### Submission Requirements
+## Feedback
+This challenge was challenging but also fun to do. At first I was confused as to what i had to do, but I got to understand at some point.
 
-- Updated HTML and JavaScript files.
-- Submit your project to the LMS Project Tab for DJS02
+## Challenges 
+I experienced no challnges.
 
-This project challenges you to think critically about user input, error handling, and providing a seamless user experience. Ensure your solution is robust, user-friendly, and meets the specified requirements.
+
 
